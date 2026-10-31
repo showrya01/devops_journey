@@ -1,2 +1,2 @@
-Adding new lines 
-Adding some more lines 
+This is new file
+And we are going to add some features into this . 
